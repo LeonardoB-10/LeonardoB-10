@@ -1,5 +1,5 @@
 Hola, mi nombre es Vinicio Borja 👋<br>
-**GitHub principal:** 👉https://github.com/Vinici0 👈
+**GitHub principal:** 👉 https://github.com/Vinici0 👈
 ### Freelance full-stack
 ![https://github.com/mouredev](https://res.cloudinary.com/dmkvix7ds/image/upload/v1680412806/maxresdefault_mnjyjk.jpg)
 
